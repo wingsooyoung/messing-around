@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wingsooyoung/messing-around/issues"
   },
-  "homepage": "https://github.com/wingsooyoung/messing-around#readme"
+  "homepage": "https://github.com/wingsooyoung/messing-around#readme",
+  "publishConfig": {
+   "@wingsooyoung:registry": "https://npm.pkg.github.com"
+ }
 }
