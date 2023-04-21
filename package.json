@@ -1,0 +1,23 @@
+{
+  "name": "messing-around",
+  "version": "1.0.0",
+  "description": "for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingsooyoung/messing-around.git"
+  },
+  "keywords": [
+    "fun",
+    "test"
+  ],
+  "author": "Tori Gracey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wingsooyoung/messing-around/issues"
+  },
+  "homepage": "https://github.com/wingsooyoung/messing-around#readme"
+}
